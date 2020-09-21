@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# Ruby on Rails Tutorial: "hello, world!"
+
+Erste APP:
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+[Michael Hartl](http://www.michaelhartl.com/).
